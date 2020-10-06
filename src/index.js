@@ -9,7 +9,7 @@ ReactDOM.render(
     <header>Weather App</header>
     <App />
     <footer>
-      <a href="https://github.com/jnasmbrd/my-react-weather--app">
+      <a href="https://github.com/jnasmbrd/My-React-Weather-App.git">
         Open Source Code
       </a>{" "}
       by <a href="#">Janice Asumbrado</a>
